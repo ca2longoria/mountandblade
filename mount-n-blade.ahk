@@ -11,7 +11,7 @@ Quick deposits/withdrawals to/from Garrisons
   . click middle mouse button to Give All of the troop beneath the cursor
   . hold shift when clicking middle mouse button
     . as long as shift is held, the above action will repeat
-		. NOTE: this one is finicky; still working on it.
+      . NOTE: this one is finicky; still working on it.
 
 Quick item transfer
   . hold ctrl and click middle mouse button
